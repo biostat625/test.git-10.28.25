@@ -3,3 +3,6 @@ hello = function(msg) {
 }
 
 some new edits
+
+new function
+
